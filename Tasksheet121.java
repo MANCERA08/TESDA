@@ -4,16 +4,16 @@ import static java.lang.Math.*;
 public class Tasksheet121 {
 
     public static int add(int a, int b) {
-        return Math.addExact(a,b);
+        return addExact(a,b);
     }
     public static int subtract(int a, int b) {
-        return Math.subtractExact(a,b);
+        return subtractExact(a,b);
     }
     public static int multiply(int a, int b) {
-        return Math.multiplyExact(a,b);
+        return multiplyExact(a,b);
     }
     public static float divide(int a, int b) {
-       return Math.floorDiv(a,b);
+       return floorDiv(a,b);
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
