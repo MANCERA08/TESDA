@@ -20,11 +20,13 @@ class Gorilla implements Animal {
     @Override
     public void groom() {
         // lather, rinse, repeat
+        System.out.println("Grooming the gorilla");
     }
 
     @Override
     public void pet() {
         // pet at your own risk
+        System.out.println("Pet the gorilla")
     }
 }
 
