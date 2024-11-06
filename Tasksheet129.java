@@ -26,7 +26,7 @@ class Gorilla implements Animal {
     @Override
     public void pet() {
         // pet at your own risk
-        System.out.println("Pet the gorilla")
+        System.out.println("Pet the gorilla");
     }
 }
 
