@@ -24,7 +24,7 @@ class Gorilla implements Animal {
 
     @Override
     public void pet() {
-        // pet at your own 
+        // pet at your own risk
     }
 }
 
