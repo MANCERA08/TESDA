@@ -1,5 +1,5 @@
-Title: Banking Application
-Name: Ma. Angela Mancera
+//Title: Banking Application
+//Name: Ma. Angela Mancera
 
 import java.util.Scanner;
 
